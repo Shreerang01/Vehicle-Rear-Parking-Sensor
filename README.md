@@ -67,7 +67,8 @@ For Actual Implementation
     6. Note the Obeservations
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![Schematics](https://github.com/Shreerang01/Vehicle-Rear-Parking-Sensor/assets/113919844/59a0e707-7535-49c1-92b1-72ca9b3dfc8f)
+
 ## Usage
 
 ### Setting up the Parking Sensor System
